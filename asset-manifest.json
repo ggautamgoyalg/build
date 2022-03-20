@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QUiz/static/css/main.e6c13ad2.css",
+    "main.js": "/QUiz/static/js/main.fa4e80d6.js",
+    "static/js/787.d3befce1.chunk.js": "/QUiz/static/js/787.d3befce1.chunk.js",
+    "index.html": "/QUiz/index.html",
+    "main.e6c13ad2.css.map": "/QUiz/static/css/main.e6c13ad2.css.map",
+    "main.fa4e80d6.js.map": "/QUiz/static/js/main.fa4e80d6.js.map",
+    "787.d3befce1.chunk.js.map": "/QUiz/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fa4e80d6.js"
+  ]
+}
